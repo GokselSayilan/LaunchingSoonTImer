@@ -41,6 +41,7 @@
         transform: translateX(-50%);
         display: flex;
         gap: 30px;
+        z-index: 20;
     }
     
     .footerPattern {
